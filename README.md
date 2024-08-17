@@ -1,8 +1,7 @@
 # M306 - Kleinprojekte im eigenen Berufsumfeld abwickeln
 
 **Modulidentifikation**
-[Bivo21 (Lehrbeginn ab 2021) .html](https://www.modulbaukasten.ch/module/a875c9da-716c-eb11-b0b1-000d3a830b2b/de-DE?title=Kleinprojekte-im-eigenen-Berufsumfeld-abwickeln)
-[.pdf](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20106&nmodulid=660&cdateiformat=pdf)
+[Modulidentifikation: ICT-Berufsbildung](https://www.modulbaukasten.ch/module/306/4/de-DE?title=Kleinprojekte-im-eigenen-Berufsumfeld-abwickeln)
 
 <br>
 ![projektmanagement.jpg](projektmanagement.jpg)
