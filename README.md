@@ -1,8 +1,7 @@
 # M306 - Kleinprojekte im eigenen Berufsumfeld abwickeln
 
 **Modulidentifikation**
-- Bivo14 (Lehrbeginn bis 2020) [.pdf](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20106&nmodulid=496&cdateiformat=pdf)
-- Bivo21 (Lehrbeginn ab 2021) [.html](https://www.modulbaukasten.ch/module/a875c9da-716c-eb11-b0b1-000d3a830b2b/de-DE?title=Kleinprojekte-im-eigenen-Berufsumfeld-abwickeln)
+[Bivo21 (Lehrbeginn ab 2021) .html](https://www.modulbaukasten.ch/module/a875c9da-716c-eb11-b0b1-000d3a830b2b/de-DE?title=Kleinprojekte-im-eigenen-Berufsumfeld-abwickeln)
 [.pdf](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20106&nmodulid=660&cdateiformat=pdf)
 
 <br>
@@ -19,8 +18,6 @@
 
 ## Tages- und Themenplan
 
-### PE21b (Mo morgens)
-
 | ~Tag | Datum     | Thema                                                                          | Bemerkungen               |
 | ---- | -----     | ----                                                                           | ----                      |
 |   1  |   | [Projekt-Ziele                        ](./1_Projekt-Ziele)                     |                           |
@@ -35,7 +32,7 @@
 |   9  |   | [Abschlussprojekt                     ](./Abschlussprojekt)                    | Gruppen-Projekt 33% MNote |
 |      |           |                                                                                |                           |
 |  add on |  1     | [Lastenheft-Pflichtenheft](./add-on1_Lastenheft-Pflichtenheft)                 |                           |
-
+|  add on | 2  | [Warum Projekte scheitern](./add-on2_Warum-Projekte-scheitern)           |                          
 
 
 
