@@ -18,10 +18,11 @@ Ressourcen: [Struktur-Lege-Karten](../vorlagen_beispiele/M306_StrukturLegeKarten
   - Die Rolle des Projektleiters
   - Teambildung _**( --> Offline-Erfahrung )**_
   - Menschenbild/Sitzungstypen _**( --> Tabu-Spiel )**_
-  - Sitzungsgestaltung
+  - Sitzungsgestaltung [Guide-fuer-bessere-Meetings.pdf](Guide-fuer-bessere-Meetings.pdf)
   - Pareto-Prinzip (80/20-Regel)
   - Eisenhower-Prinzip (wichtig/dringlich)
   - Entscheidungsfolgen-Matrix
+
 
 ## Anwendung
 - PodCast 22:18 min, D, 2020-11-25 - **_Wie ideale Teams funktionieren_** [mp3 online](https://media.neuland.br.de/file/1810761/c/feed/wie-ideale-teams-funktionieren-gemeinsam-ans-ziel.mp3), [mp3 local](./201216_1450_radioWissen_Wie-ideale-Teams-funktionieren.mp3)<br>
