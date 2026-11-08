@@ -6,7 +6,7 @@
 
 
 ## Theorie
-- [Skript (Seiten 16-22)](../docs) 
+- [Skript V3.1.5 (Seiten 25-31)](../docs) 
 
 
 ## Auftrag / Aufgabe

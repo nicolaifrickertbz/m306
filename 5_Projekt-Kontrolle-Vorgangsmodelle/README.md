@@ -4,7 +4,7 @@
 
 
 ## Theorie
-- [Skript (Seiten 34-40)](../docs) 
+- [Skript V3.1.5 (Seiten 45-52)](../docs) 
 - Theorie/Skript [Projektkontrolle (alternativ)](./M306_5_Projektkontrolle.pdf)
 - Übersicht [Vorgehensmodelle](./01_Vorgehensmodelle-Sarre2015.pdf) von F.Sarre
 - [HERMES_2013.pdf](./02_HERMES_2013.pdf) als Vorgehensmodell der Bundesverwaltung [hermes.admin.ch](https://www.hermes.admin.ch),

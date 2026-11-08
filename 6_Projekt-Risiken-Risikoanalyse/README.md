@@ -14,7 +14,7 @@
 
 
 ## Theorie
-- [Skript (Seiten 50-51)](../docs) 
+- [Skript V3.1.5 (Seiten 53-54)](../docs) 
 - 6:20 min [Risiken im Projekt managen 1](./M306_6f_Teil1_6.20min_Risiken-im-Projekt-managen.mp4) mp4 
 - 5:07 min [Risiken im Projekt managen 2](./M306_6f_Teil2_5.07min_Risiken-im-Projekt-managen.mp4) mp4
 - 5:47 min [Risiken im Projekt managen 3](./M306_6f_Teil3_5.47min_Risiken-im-Projekt-managen.mp4) mp4

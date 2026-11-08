@@ -13,7 +13,7 @@ Ressourcen: [Struktur-Lege-Karten](../vorlagen_beispiele/M306_StrukturLegeKarten
 - [Projektführung_Praeinstruktion](./M306_4_Projektfuehrung_Praeinstruktion.txt)
 
 
-- [Skript (Seiten 23-32)](../docs) 
+- [Skript V3.1.5 (Seiten 32-44)](../docs) 
 **"Projektführung"** (entlang dem Theoriedokument)
   - Die Rolle des Projektleiters
   - Teambildung _**( --> Offline-Erfahrung )**_

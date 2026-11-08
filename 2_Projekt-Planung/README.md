@@ -7,7 +7,7 @@
 <br>
 
 ## Theorie
-- [Skript (Seiten 41-49)](../docs) 
+- [Skript V3.1.5 (Seiten 16-24)](../docs) 
 - **Beispiel**: Dokumentenplanung "Hermes" im Kanton Zürich [Szenario-Übersicht](http://hermes.zh.ch/szenarien/szenario_01_IT-Individualanwendung/scenariooverview/de/Szenariouebersicht.pdf), [Vorlagen](http://hermes.zh.ch/szenarien/szenario_01_IT-Individualanwendung/templates/de/index.html)
 
 ## 1 Projekt-Rollen und Zusammenarbeit

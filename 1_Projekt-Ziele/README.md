@@ -5,7 +5,7 @@
 - 05:20 min [Die Vasa, der Stolz der schwedischen Marine](https://www.youtube.com/watch?v=ObIvBgkEGW4&t=15s)
 
 ## Theorie
-- [Skript (Seiten 4-15)](../docs) 
+- [Skript V3.1.5 (Seiten 4-15)](../docs) 
 
 
 - 04:40 min [01 Was ist ein Projekt?](https://www.youtube.com/watch?v=xEb__ktVJwc&list=PLdPuPEPdfsEbu55aREtpwjtPALYrekPVO)
