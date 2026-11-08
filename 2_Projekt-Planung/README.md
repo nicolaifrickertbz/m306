@@ -1,5 +1,7 @@
 # M306/2 Projekt-Planung
 
+> 🤖 **Copilot-Agents:** [M306 T02a Planung Grundlagen](https://m365.cloud.microsoft/chat/?titleId=T_02ad6130-2c1a-6e79-5629-a8c7d800a280&source=embedded-builder) · [M306 T02b Planungsmethoden](https://m365.cloud.microsoft/chat/?titleId=T_4e76160e-bd57-9d13-7eba-44e8a608a967&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 - [Projektplanung_Praeinstruktion](./M306_2_Projektplanung_Praeinstruktion.txt)
 
 <br>

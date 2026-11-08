@@ -1,5 +1,7 @@
 # M306/6 Projekt-Risiken und Risikoanalyse
 
+> 🤖 **Copilot-Agent:** [M306 T06 Risikoanalyse](https://m365.cloud.microsoft/chat/?titleId=T_8d09f236-22f8-7769-916e-e9a490bff85d&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 - [Projektkontrolle-risiken_Praeinstruktion](./M306_6a_Projektkontrolle-risiken_Praeinstruktion.txt)
 
 <br>

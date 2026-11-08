@@ -1,5 +1,7 @@
 # M306/5 Projekt-Kontrolle und Vorgangsmodelle
 
+> 🤖 **Copilot-Agents:** [M306 T05a Projektkontrolle](https://m365.cloud.microsoft/chat/?titleId=T_fd3cb66a-d84a-d019-836a-aa87a5c7498d&source=embedded-builder) · [M306 T05b Vorgehensmodelle](https://m365.cloud.microsoft/chat/?titleId=T_7c7f0ad9-8992-9d36-7b00-533a93facf2e&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 - [Projektkontrolle_Praeinstruktion](./M306_5_Projektkontrolle_Praeinstruktion.txt)
 
 

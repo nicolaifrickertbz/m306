@@ -1,5 +1,7 @@
 ## M306/8 Warum Projekte scheitern
 
+> 🤖 **Copilot-Agent:** [M306 T07 Projekte scheitern](https://m365.cloud.microsoft/chat/?titleId=T_0c38ae0b-75a4-8681-562d-fda198a83991&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 Stand 11.11.2021, MUH
 
 

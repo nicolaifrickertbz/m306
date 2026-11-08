@@ -1,5 +1,7 @@
 # M306/4 Projekt-Führung
 
+> 🤖 **Copilot-Agents:** [M306 T04a Projektleiter & Team](https://m365.cloud.microsoft/chat/?titleId=T_c32d3184-40fe-32ae-a122-6e49baf3945e&source=embedded-builder) · [M306 T04b Sitzungen & Methoden](https://m365.cloud.microsoft/chat/?titleId=T_6778701a-2fa2-e9db-8ce2-0c104c77a49d&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 ## Praxis 
 - Offline-Erfahung "Teambildung" inkl. Video-Aufnahmen <br/>
 (--> Struktur-Legen in Gruppen zu 5-7 Personen) <br />

@@ -1,5 +1,7 @@
 ### Lastenheft, Pflichtenheft
 
+> 🤖 **Copilot-Agent:** [M306 T08 Lasten-/Pflichtenheft](https://m365.cloud.microsoft/chat/?titleId=T_0316b38c-22fd-99b9-a3d8-a2cceae5f63f&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 #### Warum ist das wichtig?
  - 12:48 min, D, 2018 [Lastenheft und Pflichtenheft. Warum brauche ich das als Webdesigner?](https://www.youtube.com/watch?v=-4Tq83wZFw8)
 

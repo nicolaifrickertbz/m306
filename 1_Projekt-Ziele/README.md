@@ -1,5 +1,7 @@
 # M306/1 Projektziele
 
+> 🤖 **Copilot-Agents:** [M306 T01a Projekt & Ziele](https://m365.cloud.microsoft/chat/?titleId=T_0fd51ffa-f01e-bae3-6b5a-b5b48feec0ba&source=embedded-builder) · [M306 T01b Projektstart](https://m365.cloud.microsoft/chat/?titleId=T_38d41ee9-d14b-3130-2af7-1f9da2a51637&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
+
 ## Einstieg
 - [Praeinstruktion "Projekt", "Ziel"](./M306_1_Projekt-Ziele_Praeinstruktion.txt)
 - 05:20 min [Die Vasa, der Stolz der schwedischen Marine](https://www.youtube.com/watch?v=ObIvBgkEGW4&t=15s)
