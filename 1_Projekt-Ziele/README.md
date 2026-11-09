@@ -14,8 +14,6 @@
 - 06:35 min [02 Was ist ein Projektziel, was nicht?](https://www.youtube.com/watch?v=P5bHdkxLNZU&list=PLdPuPEPdfsEbu55aREtpwjtPALYrekPVO&index=3)
 
 
-## Auftrag 
-- a) [M306_01_Projektziele_Aufgabe_KuhlRecords.pdf](../uebungen/M306_1_Projektziele_Aufgabe_KuhlRecords.pdf)
-- b) Planen einer Geburtstags-Party
-
-[../vorlagen_beispiele/M306_Vorlage_Projektauftrag.docx](../vorlagen_beispiele/M306_Vorlage_Projektauftrag.docx)
+## Auftrag
+Die Aufträge zu diesem Kapitel (KuhlRecords, Geburtstags-Party) stehen im Lernpfad:
+**[Tag 1 · Projektziele](../sol/01.md)**
