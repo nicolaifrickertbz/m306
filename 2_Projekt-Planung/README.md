@@ -45,8 +45,6 @@
 - (4:24 min) [Lastenheft und Pflichtenheft (Teil 2)](https://www.youtube.com/watch?v=hlltEc5k4F4)
 - (13 min) [Lasten- und Pflichtenheft. Warum brauche ich das z.B. als Webdesigner?](https://www.youtube.com/watch?v=-4Tq83wZFw8&t=1s)
 
-## Auftrag / Aufgabe / Übung
-- a.) Aufgabe/Übung Projektplanung Quellfassung [**.docx**](../uebungen/M306_2_Uebung-Projektplanung-Quellfassung.docx) / [.pdf](../uebungen/M306_2_Uebung-Projektplanung-Quellfassung.pdf)
-- b.) Aufgabe/Übung Projektplanung "Migration Smartphone" [**.docx**](../uebungen/M306_2_Aufgabe_MigrationSmartphone_Projektplanung.docx)
-- -- Template für die Aufgabe [**.docx**](../uebungen/M306_2_Aufgabe_Projektplanung_Template.docx)
-- -- [**Tutorial**: Netzplantechnik und Durchlaufterminierung (25 min)](https://www.youtube.com/watch?v=HkXlzWYBBAU)
+## Auftrag
+Der Auftrag zu diesem Kapitel (Quellfassung) steht im Lernpfad:
+**[Tag 2 · Projektplanung](../sol/02.md)**

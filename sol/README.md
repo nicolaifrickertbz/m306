@@ -12,3 +12,4 @@ und ob es eine Abgabe gibt.
 | Tag | Thema |
 |---|---|
 | [01](01.md) | Projektziele |
+| [02](02.md) | Projektplanung |
