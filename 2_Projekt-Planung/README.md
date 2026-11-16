@@ -1,12 +1,6 @@
 # M306/2 Projekt-Planung
 
-> 🤖 **Copilot-Agents:** [M306 T02a Planung Grundlagen](https://m365.cloud.microsoft/chat/?titleId=T_02ad6130-2c1a-6e79-5629-a8c7d800a280&source=embedded-builder) · [M306 T02b Planungsmethoden](https://m365.cloud.microsoft/chat/?titleId=T_4e76160e-bd57-9d13-7eba-44e8a608a967&source=embedded-builder) — mit dem TBZ-Konto öffnen und **Start** tippen.
-
-- [Projektplanung_Praeinstruktion](./M306_2_Projektplanung_Praeinstruktion.txt)
-
-<br>
-![pjmwunder.jpg](pjmwunder.jpg)
-<br>
+![Projektplanung: «hier geschieht ein Wunder»](pjmwunder.jpg)
 
 ## Theorie
 - [Skript V3.1.5 (Seiten 16-24)](../docs) 
@@ -45,8 +39,6 @@
 - (4:24 min) [Lastenheft und Pflichtenheft (Teil 2)](https://www.youtube.com/watch?v=hlltEc5k4F4)
 - (13 min) [Lasten- und Pflichtenheft. Warum brauche ich das z.B. als Webdesigner?](https://www.youtube.com/watch?v=-4Tq83wZFw8&t=1s)
 
-## Auftrag / Aufgabe / Übung
-- a.) Aufgabe/Übung Projektplanung Quellfassung [**.docx**](../uebungen/M306_2_Uebung-Projektplanung-Quellfassung.docx) / [.pdf](../uebungen/M306_2_Uebung-Projektplanung-Quellfassung.pdf)
-- b.) Aufgabe/Übung Projektplanung "Migration Smartphone" [**.docx**](../uebungen/M306_2_Aufgabe_MigrationSmartphone_Projektplanung.docx)
-- -- Template für die Aufgabe [**.docx**](../uebungen/M306_2_Aufgabe_Projektplanung_Template.docx)
-- -- [**Tutorial**: Netzplantechnik und Durchlaufterminierung (25 min)](https://www.youtube.com/watch?v=HkXlzWYBBAU)
+## Auftrag
+Der Auftrag zu diesem Kapitel (Quellfassung) steht im Lernpfad:
+**[Tag 2 · Projektplanung](../sol/02.md)**
