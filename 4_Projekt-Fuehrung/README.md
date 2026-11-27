@@ -26,6 +26,10 @@ Ressourcen: [Struktur-Lege-Karten](../vorlagen_beispiele/M306_StrukturLegeKarten
   - Entscheidungsfolgen-Matrix
 
 
+## Auftrag
+Die Aufträge zu diesem Kapitel (Tabu-Spiel, Podcast) stehen im Lernpfad:
+**[Tag 4 · Projektführung](../sol/04.md)**
+
 ## Anwendung
 - PodCast 22:18 min, D, 2020-11-25 - **_Wie ideale Teams funktionieren_** [mp3 online](https://media.neuland.br.de/file/1810761/c/feed/wie-ideale-teams-funktionieren-gemeinsam-ans-ziel.mp3), [mp3 local](./201216_1450_radioWissen_Wie-ideale-Teams-funktionieren.mp3)<br>
 [Fragen](./wie-ideale-teams-funktionieren-gemeinsam-ans-ziel.txt) zum PodCast
